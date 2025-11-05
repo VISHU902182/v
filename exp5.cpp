@@ -10,9 +10,9 @@ float area(float, float);
 
 int main() {
     // Display student info first
-    cout << "Name -: Suyash Vijaykumar Kumbhar" << endl;
+    cout << "Name -: Suyash nikam" << endl;
     cout << "Div  -: B" << endl;
-    cout << "Roll No -: 12" << endl;
+    cout << "Roll No -: 23" << endl;
     cout << "---------------------------" << endl << endl;
 
     int s, l, b;
