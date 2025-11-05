@@ -27,9 +27,9 @@ public:
 
 int main() 
 {
-    cout << "Name -:Suyash nikam" << endl;
-    cout << "Div  -: B" << endl;
-    cout << "Roll No -: 23" << endl;
+    cout << "Name -:Vishal choudhari" << endl;
+    cout << "Div  -: B" << endly;
+    cout << "Roll No -: 89" << endl;
     cout << "---------------------------" << endl << endl;
     Student studentObj;
     studentObj.inputDetails();
